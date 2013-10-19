@@ -1,0 +1,8 @@
+vendor
+.bundle
+.idea
+.DS_Store
+.project
+nbproject
+*.swp
+log
